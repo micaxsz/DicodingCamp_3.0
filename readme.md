@@ -1,4 +1,4 @@
-feat Menambahkan fitur baru
+feat Menambahkan fitur baru <br>
 fix Memperbaiki bug
 docs Perubahan hanya pada dokumentasi (README, JSDoc)
 style Perubahan format kode yang tidak mengubah logika (spasi, indentasi, semicolon)
